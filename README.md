@@ -1,6 +1,8 @@
 # Tools.PortsForwarder
 Powershell module to automatically create port redirects.
 
+The module will automatically create a port redirection and firewall rules to allow the connection.
+
 ## Utilisation
 
 Add a new port forward
